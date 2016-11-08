@@ -2,7 +2,8 @@
     wuerfel.cpp definiert einen Würfel über seine 6 Seiten
     Last Update:  13.10.2011   W.-D. Groch
 */ 
-#include <GL/freeglut.h>
+#include <GL/freeglut.h> //d15
+//#include <Z:\Downloads\OpenGL_SoSe_15\GL\freeglut.h> //rest der welt
 #include "Wuerfel.h"
 
 
